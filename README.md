@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Extreme IP Lookup is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://extreme-ip-lookup.com/
+Extreme IP Lookup provides a geolocation API that returns detailed information about IP addresses, including type (Business, Education, Residential), name, and associated website when available. Users can retrieve data in JSON, JSONP, or CSV formats via simple HTTP GET requests. An API key is required for access, obtainable through a subscription package. The service is operated from Amsterdam, Netherlands and emphasizes privacy and data security.
+
+**Areas:** Company · Geolocation · IP · API · Data · Netherlands
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://extreme-ip-lookup.com/)
+- [Documentation](https://extreme-ip-lookup.com/)
+- [API reference](https://extreme-ip-lookup.com/json/?key=demo)
+- [Terms of service](https://extreme-ip-lookup.com/terms-privacy)
+- [Privacy policy](https://extreme-ip-lookup.com/terms-privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/extreme-ip-lookup/](https://apis.io/providers/extreme-ip-lookup/).
